@@ -14,3 +14,4 @@ class HealthcareVacancyItem(scrapy.Item):
     title = scrapy.Field()
     company_name = scrapy.Field()
     location = scrapy.Field()
+# changes
